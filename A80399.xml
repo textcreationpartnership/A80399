@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mris. Cooke's Meditations, being an humble thanksgiving to her Heavenly Father, for granting her a new life, having conclnded [sic] her selfe dead, and her grave made in the bottome of the sea, in that great storme. Jan. the 5th. 1649. / Composed by her selfe at her unexpected safe arrivall at Corcke.</title>
+            <author>Cooke, Frances, fl. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80399</idno>
+            <idno type="STC">Wing C6008</idno>
+            <idno type="STC">Thomason E600_9</idno>
+            <idno type="STC">ESTC R206391</idno>
+            <idno type="EEBO-CITATION">99865551</idno>
+            <idno type="PROQUEST">99865551</idno>
+            <idno type="VID">117796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117796)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mris. Cooke's Meditations, being an humble thanksgiving to her Heavenly Father, for granting her a new life, having conclnded [sic] her selfe dead, and her grave made in the bottome of the sea, in that great storme. Jan. the 5th. 1649. / Composed by her selfe at her unexpected safe arrivall at Corcke.</title>
+                  <author>Cooke, Frances, fl. 1649.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Corke, printed, and reprinted at London by C.S. and are to be sold by Thomas Brewster and Gregory Mould, at the three Bibles at the west-end of Pauls,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "May. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cooke, Frances, fl. 1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117796:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">ris.</hi> COOKES MEDITATIONS, Being an humble thankſgiving to her HEAVENLY FATHER, For granting her a new life, having concluded her ſelfe dead, and her grave made in the bot<g ref="char:EOLhyphen"/>tome of the Sea, in that great ſtorme. <hi>Jan.</hi> the 5th. 1649.</p>
+            <p>Compoſed by her ſelfe at her unexpected ſafe Arrivall at CORCKE.</p>
+            <p>
+               <hi>CORKE,</hi> Printed, And reprinted at <hi>London</hi> by <hi>C. S.</hi> and are to be ſold by <hi>Thomas Brewſter</hi> and <hi>Gregory Mould,</hi> at the three Bibles at the Weſt-end of <hi>Pauls,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:117796:2"/>
+            <head>M<hi rend="sup">ris.</hi> COOKES MEDITATIONS, BEING An humble thankſgiving to her Heavenly Father, for granting her a new life, having concluded her ſelfe dead, and her grave made in the bottome of the Sea.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving ſolemnly promiſed to the moſt high God in the grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtorme, that if his Majeſty would be pleaſed to prolong my dayes, and deliver me from ſo great a danger, I would ſtudie to prayſe and glorifie his Name all the dayes of my life, and call upon others that were in the ſtorme ſo to doe, if I ſhall neglect ſo to do theſe broken Meditations may be an evidence againſt me; written ſuddenly after my comming to <hi>Corke, Pſal.</hi> 118.17. <hi>verſe.</hi> I ſhall not dye but live and declare the works of the Lord: 66. <hi>Pſal.</hi> 16. Come and heare all yee that feare God, and I will declare what he hath done for my ſoule, 19. <hi>verſe,</hi> I cryed unto him with my mouth, and he was extolled with my tongue <hi>Pſal.</hi> 56.12. thy vowes are upon me oh God! I will render prayſe unto thee for thou haſt made a path in the great waters for thy redeem<g ref="char:EOLhyphen"/>ed to paſſe through, and haſt brought thy ranſomed ones ſafe to land, there<g ref="char:EOLhyphen"/>fore bleſſe the Lord oh my ſoule, and forget not ſuch mercies, who haſt forgi<g ref="char:EOLhyphen"/>ven all mine iniquities and ſaved my life from ſo great a danger! oh that I could ſpend this new life wholly in thy ſervice, and that I might live to the prayſe and glory of his grace wherein he hath made me accepted in his beloved, <hi>Eph.</hi> 2.6. <hi>v.</hi>
+            </p>
+            <p>Landing in <hi>Kinſale,</hi> I ſaid, am I alive or dead? Doth not the ground mov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under mee? I have been dying all this ſtorme, and I cannot tell whether I am yet alive; I finding my body much out of frame, and my heart fainting, ha<g ref="char:EOLhyphen"/>ving been ten dayes at ſea without eating, but the next day the Lord made mee more ſenſible of my new life: and when I came to dive into the mighty depth of the love of God, in granting mee deliverance from ſo great a danger, my heart was ſo brim-full with the apprehenſion of his tender mercies, that I could not containe my ſelfe, but muſt needs burſt forth in teares, for feare I ſhould not live ſutable to ſo great a mercy, and I ſaid to my friends, that I would gladly be with my Saviour, if it pleaſed him to take mee: for the mercy I received was ſo
+<pb n="3" facs="tcp:117796:2"/>great, that I ſhould never be able to walk anſwerably in holineſſe to the Lord and my care is, that I might not be found a fruitleſſe figtree in the garden of my God, when Chriſt ſaid, I am come into my garden my ſiſter, my ſpouſe, it was but to gather fruit; but when he expected fruit and found none, he was diſ<g ref="char:EOLhyphen"/>pleaſed.</p>
+            <p>I know it is a great mercy to bleſſe God for mercies, and they which have a heart to bleſs God for mercies, ought to have a tongue to prayſe him for the ſame, and a pen to record them we being too prone to let them ſlip out of our memories, which if I ſhall do, I deſire my hand may be brought to teſtifie a<g ref="char:EOLhyphen"/>gainſt me, my heart and tongue ſhall not only prayſe him, but with my pen al<g ref="char:EOLhyphen"/>ſo will I ſtirre up my ſelf, and intreat all others that were in the ſame ſtorme par<g ref="char:EOLhyphen"/>takers with me of the ſame deliverance, to magnifie the Lord for ever. Oh ye couragious Sea-men that ſaid, you were at your wits end, and knew not what would become of you, prayſe ye the Lord; O ye that came into the great Cabbin to dye with us, bleſſe his name for ever. O ye that ſaid you would give all you had to be landed even in your enemies Quarters, that you might fight for your lives, prayſe him that is Lord of the Sea, that now we ſee the faces of our friends in peace, and can joyfully meet together to keep dayes of thanks<g ref="char:EOLhyphen"/>giving to the Lord.</p>
+            <p>Jeſus Chriſt took ſpeciall notice of the Lepers, <hi>Luke</hi> 17.15, 16. <hi>verſes:</hi> but one of them when he ſaw that he was healed, turned back, and with a loud voyce glorified God, and fell downe on his face at his feet, giving him thanks, but Jeſus ſaid, were there not ten clenſed, but where are the nine? It is all Chriſt requires of a Saint to be praiſed for deliverances; as he ſaith, <hi>Pſal.</hi> 50.15. Call upon me in the day of trouble, I will deliver thee, but thou ſhalt glorifie mee.</p>
+            <p>But no ſoule can glorifie and praiſe God, but thoſe whoſe hearts He hath wound up, and tuned to ſuch a ſpirituall note, becauſe they are birds which fly high upon the wing of faith, and may have place to ſit and ſing neer the altar of God: and thoſe that are thus admitted into the holy of holyes to ſing <hi>Hallelu<g ref="char:EOLhyphen"/>jab's</hi> to the Name of the moſt high God, and to the Lambe, are the ſpirits of juſt men made perfect already in heaven and thoſe who are kept through the power of God by faith, 1 <hi>Pet.</hi> 1.5. while they are in the world untill they come to be made one with the Father, and the Son, when this mortality ſhall be ſwallow<g ref="char:EOLhyphen"/>ed up of life, and we crowned with an incorruptible crowne of glory, and come to be made perfectly glorious through Chriſt, and perfectly holy, then ſhall we be fit to come into the preſence of our God and, behold his glory, and admire him who is the King of Saints, and then ſhall we worſhip and ſing everlaſting prayſe to the Lord God Almighty, who is great and marvellous in all his
+<pb n="4" facs="tcp:117796:3"/>workes, and juſt and true in all his wayes. Thus to prayſe God is the worke of Angells, which they doe, and ſhall doe to all eternity, who are glo<g ref="char:EOLhyphen"/>rious creatures without ſinne, which are ſet apart onely for the worke of pray<g ref="char:EOLhyphen"/>ſing God. Oh the diſproportion betwixt Men and Angells! And yet God requires and looks for prayſe from men as well as from Angells. But Lord, who is ſufficient for theſe things? who is worthy to undertake the worke of Angells? whoſe ſpirits are thus aſcended up on high to make an Evangelicall harmony in the eares of ſo holy a God? whoſe hearts are fitted and tuned to ſing everlaſting prayſes and <hi>Hallelujah's</hi> to the mighty Lord God of mercies to our ſoules, redeeming mercies juſtifying mercies, temporall deliverances? God requires prayſe of every one that he workes deliverance for, whether ſpirituall or temporall.</p>
+            <p>He that eateth after ten dayes faſting let him give thanks, yee that have e<g ref="char:EOLhyphen"/>ſcaped the rocks remember the Lord. Ye whom God hath kept from ſinking and periſhing in the deepe waters praiſe him: Ye which are living monuments of his late mercy, and have been preſerved by the immediate wonderfull hand of God, praiſe him. Ye for whoſe ſakes he rebuked the Sea, and made the proud waves calme, and hath ſet your feet upon dry ground, declare that God is a preſent help in time of trouble, <hi>Pſal.</hi> 46.1. <hi>verſe.</hi> and tell his goodneſſe to the ſons of men. The Lord would not have his people to forget his mercies, but he puts them in mind of deliverances. How often doth he tell us in Scripture, that he is our God, and that he brought us out of the Land of <hi>Egypt,</hi> and that with his holy Arme he hath wrought ſalvation for his choſen. Ingratitude is a very great ſin, becauſe it is a breach of the Commandements of God; you ſhall glorify me, ſaith he, when <hi>I</hi> deliver you, and <hi>I</hi> will be praiſed by them that dwell upon the earth. The Lord Commands, and requires his people to be thankfull for mercies, and he takes it very unkindly when they will not ſo much as returne thanks. 50. <hi>Pſ.</hi> 8. The Lord cares not for burnt-offering and ſacri<g ref="char:EOLhyphen"/>fices nor cattell upon a thouſand hills, nor for all the fowles of the mountaines nor the beaſts of the fields, but, ſaith he gather my Saints together unto me, 5. <hi>v.</hi> thoſe that have made a Covenant with me.</p>
+            <p>And what doth God require of his Saints, when they ſo aſſemble together to remember ſuch mercies, but prayſe and thankſgiving, and ſpecially to pay their vowes unto the moſt high <hi>verſe</hi> 14? Yet many of Gods people are very back<g ref="char:EOLhyphen"/>ward in duty of thankſgiving, and that we ſee by the Lords oft putting them in mind to pay their vowes, and to performe their Covenant which they make with him in the day of their affliction. The Lord knowes very well when his people moſt frequent him, as he ſaith <hi>Hoſea</hi> 5.15. <hi>verſe.</hi> In their affliction they will ſeeke me early, but in the day of their proſperity they forget their maker, <hi>Hoſea</hi>
+               <pb n="5" facs="tcp:117796:3"/>8.14. So that the Lord complaines, that he knowes not what to do with theſe people. He findes ſuch ebbings and flowings in their unconſtant affections, that he compares them to the clouds <hi>Hoſea</hi> 6.4. Oh <hi>Efraim</hi> what ſhall I do unto thee? oh <hi>Judah,</hi> what ſhall I do unto thee? for your righteouſneſs is as the morning cloud, and as the early dew it goeth away.</p>
+            <p>I am confident that there is not one that was in this ſtorme of tryall, as I may ſo call it, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſtorm wherein we might ſound our hearts &amp; have the bottom of the inward vitalls diſcovered to our ſelves, eſpecially ſuch as feared the Lord, and have had former acquaintance with him, by way of communion through his Son, but did ſolemnly enter into a Covenant with God, and made vowes unto the moſt high, in the great ſtorme, that if he ſhould come and ranſome them now when they were almoſt ſinking from the power of the grave, which to all apprehenſions was prepared in the ſeas, and redeeme them from the jawes of death, which then preſented it ſelfe moſt dreadfull, and ſave their lives when they ſaw no way to eſcape death.</p>
+            <p>That they would give up themſelves wholly unto the Lord all the dayes of their lives, and ſtudy how to live anſwerable to ſo great a mercy, and that they woul live as refined ones whom God hath pluckt out of the fire, and out of the water, and if they knew any way more pure or holy then other wherein they might glorify God &amp; advance his praiſe, they would do it, and that they would not value the world, nor men of the world, but that they would live like thoſe whoſe hearts God hath melted downe and overcome with loving kindneſs and mercyes, preſervations and deliverances: a heart that God hath melted downe with a ſenſibleneſs of his ſpirituall and temporall deliverances will be ſaying, Lord, what wilt thou have me to do? Loe I come to do thy will oh God; I am ready not only to be bound, but alſo to dye for the name of Jeſus.</p>
+            <p>Therefore let me ſpeake a word to them to whom God hath given new I ves, and it may be hath added ſome yeares to theſe renewed lives, give me leave to put you in minde to remember your vowes all the dayes of your lives, and live by faith and not by ſenſe; <hi>Job</hi> would not reject the counſell of his ſervant and therefore I ſhall preſent ſome Scriptures to your conſiderations. <hi>Jonah</hi> 1.16. we may obſerve there, that when men are in ſtormes and diſtreſſes; then they make vowes unto God, as you may ſee in the 16. <hi>verſe:</hi> then the men feared the Lord exceedingly, and offered ſacrifice unto the Lord, and made vowes. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid in <hi>Pſal.</hi> 61.8. <hi>verſe.</hi> I will prayſe the Name of the Lord forever, that I may daily performe my vowes. <hi>Pſal.</hi> 116.17. <hi>verſe:</hi> I will offer un<g ref="char:EOLhyphen"/>to the Lord the ſacrifice of thankſgiving. I will pay my vowes unto the Lord in the preſence of all his people. When thou voweſt unto the Lord, deferre not to pay it, <hi>Eccleſ.</hi> 5.4. <hi>v. Job</hi> 22.27. <hi>verſe.</hi> Thou ſhalt make thy prayer un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:117796:4"/>the Lord, and he ſhall heare thee and thou ſhalt pay thy vowes. <hi>Numb.</hi> 30.2. <hi>verſe.</hi> If a man vow a vow unto the Lord, or ſweare an oath to bind his ſoule with a bond, he ſhall not breake his word, but he ſhall do according to all that proceedeth out of his mouth. <hi>Deut.</hi> 23.21. When thou ſhalt vow a vow unto the Lord thy God, thou ſhalt not ſlack to pay it, for the Lord thy God will ſurely require it of thee, and it would be ſin in thee.</p>
+            <p>God hath granted me the thing I prayed for, although he did not evidence to my heart then, that it ſhould be granted, but he calmed and contented my heart, by giving me a quiet reſt of ſpirit to ſubmit to my Fathers good wil &amp; pleaſure; that living or dying it ſhould goe well with me, and that I was not my owne but bought with a price 1 <hi>Cor.</hi> 6.20. and therefore muſt glorifie God, both in my body and ſoule which are his.</p>
+            <p>The Lord comes to the quick, and puts me to the tryall, that I might know what temper I was made of, and what was in my owne heart, whether I had improved my talent, and what ſtock of grace I had gained to ſupport at ſuch a time of need, and if <hi>I</hi> had a ſpirit that durſt encounter with death, let him ap<g ref="char:EOLhyphen"/>peare never ſo terrible, and in this trying condition the Lord kept me under wa<g ref="char:EOLhyphen"/>ter, as I may ſay, and expoſtulated the caſe with me, and put queſtions to my ſoule, and pleaded with me about life and death.</p>
+            <p>I mean onely this temporall death, for I bleſſe God I know that my Redeem<g ref="char:EOLhyphen"/>er lives, all the time of the ſtorme the Lord did ſweetly ſmile upon my ſoule, and I found a ſtrong ſenſibleneſſe of his love and favourable preſence in ſupport<g ref="char:EOLhyphen"/>ing my faith to believe, and in giving me aſſurance of my eternall ſalvation, thorough Jeſus Chriſt my Lord and Saviour.</p>
+            <p>But concerning the being delivered from the power of the waves, the rage of the ſea, and the danger of the rocks, the Lord hid it from me, and I could not believe that I ſhould be preſerved, neither could I tell whether God would put a period to my life, the Lord revealed it not to me concerning living and dying: but he fitted me for both, in believing that I was his, and I bleſſe his Name, the Lord kept me all the time of the ſtorme in a ſubmiſſive, humble, believing and quiet frame of ſpirit, and he ſpake to my heart by way of queſtioning with me, that ſuppoſe the Lord ſhould ſpare my life now, and at another time ſhould call for it: would I be contented to ſuffer for him by way of being a witneſſe to his truth, and the faith of Jeſus Chriſt, if he ſhould call me to it? unto which <hi>I</hi> found my ſpirit willingly to ſubmit, and <hi>I</hi> reſolved with all my heart and ſoule to repay this dying life to my ever living God, whenſoever he calls for it, and howſoever he will have me to come to him at ſea or land. And <hi>I</hi> will not feare the King of terrors, as <hi>Job</hi> calls death, let him bring me to my Fathers houſe which way he will, whether through the fire or through the water, I
+<pb n="7" facs="tcp:117796:4"/>hope I ſhall be willing to ſuffer any death that might bring glory to him that hath ſuffered death to bring me to life, believing that Chriſt would not bring me into any condition but that he would be with me therein, and then I know that I can do any thing through him which ſtrengtheneth me. 4. <hi>Phil.</hi> 13. <hi>v.</hi> For I bleſſe the Lord, I never once repined all the time, but I patiently lay ex<g ref="char:EOLhyphen"/>pecting every houre when <hi>I</hi> ſhould be diſſolved and be with Chriſt in his glori<g ref="char:EOLhyphen"/>ous and triumphant Kingdome, and after the Lord had ſearched my heart, and had wrought in me a willingneſſe to ſubmit to him, and had ſhewed me what a ſolemne action it was to dye, and had made me ſenſible that there was a cloud of griefe, but faith would pierce thorough that, and ſee life in the midſt of death, and that in finiſhing my courſe, and in reſigning my ſpirit to God that gave it, <hi>I</hi> ſhould find my fraile nature ſinking, but the Divine Nature ſupporting, and that there is a little agony to be gon through about the time diſſolution when the ſoule will be heavie unto death, notwithſtanding a ſubmiſſion to its Fathers will. <hi>Matth.</hi> 26.38, 39. <hi>v.</hi>
+            </p>
+            <p>After the Lord had given me a taſte of death, he gave me life, conditionaly that <hi>I</hi> ſhould be willing to dye and ſuffer death for him at another time if he called me to it, whereupon <hi>I</hi> ſolemnly promiſed &amp; covenanted with God, and mad my vowes unto the moſt high, in the hearing of my deareſt friend on earth &amp; others: That if the Lord would deliver me out of this terrible ſtorme and bring me ſafe to land againe and renew my dayes, <hi>I</hi> would give up my ſelfe and my new life wholly to the Lord &amp; that <hi>I</hi> would walke more cloſely with him in holy Com<g ref="char:EOLhyphen"/>munion then ever <hi>I</hi> had done formerly &amp; that <hi>I</hi> would no more live to my ſelfe, nor to the world but wholy to the Lord &amp; that <hi>I</hi> would ſtudy to live more Goſ<g ref="char:EOLhyphen"/>pel-like, declaring and holding forth to the world: that the Lord had overporw+'rd my ſoul by his free grace &amp; overcome my heart with loving kindneſs &amp; many &amp; extraordinary deliverances which cal for extraordinary praiſes; &amp; if it pleaſ<g ref="char:EOLhyphen"/>ed God to mak me partaker of ſuch a ſingular mercy, <hi>I</hi> would not only record it in my heart all the dayes of my life, but in all places render thanks unto the Lord while I have any being; and tell all the world, that <hi>I</hi> have my life from Chriſt, and therefore muſt ſpend it for him. And the Lord did ſuddenly accompliſh the thing which I had ſo earneſtly prayed for, when the ſea had done threatning it was mercifull ere <hi>I</hi> was aware of it, as if God would ſurpriſe me with deliver<g ref="char:EOLhyphen"/>ance, and I could ſcarce believe that I was come to a harbour when <hi>I</hi> was told ſo, the newes was ſo unexpected and ſudden to me, that <hi>I</hi> was like thoſe men that had prayed long for the returne of the captivity of <hi>Babylon,</hi> and it was the concluſion of many prayers, and when they ſaw that the Lord did accompliſh it on a ſudden, and the thing was done in a trice, they were as men in a dream <hi>Pſal.</hi> 126.1. <hi>verſe.</hi> they could ſcarce believe it was ſo, ſo the Lord wrought
+<pb n="8" facs="tcp:117796:5"/>deliverance for <hi>Peter</hi> ſuddenly, when he was faſt aſleepe, and did not ſo much as think of it; and ſo the Lord delivered <hi>Joſeph</hi> out of priſon on a ſudden, which ſhewed he had heard his prayer; therefore bleſſed be his Name for ever. And this the Lord doth to overcome the heart and to draw out the affections unto himſelfe, and that he might be admired of his Saints, that they finding him giving in Jweet and unexpected deliverances may returne everlaſting praiſes un<g ref="char:EOLhyphen"/>to him, and glory in the God of their ſalvation. <hi>Pſal.</hi> 40.10, 11. <hi>verſes.</hi> that they may learne alwayes to truſt him for we had the ſentence of death in our ſelves, that we ſhould not truſt in our ſelvs but in God which raiſeth the dead, who delivered us from ſo great a death, and doth deliver, in whom we truſt that hee will yet deliver 2: <hi>Cor.</hi> 1.9.10. The Lord hath his path in the whirle<g ref="char:EOLhyphen"/>winde and in the ſtorme <hi>Nahum</hi> 2.3. <hi>verſes.</hi>
+            </p>
+            <p>And the Lord anſwered <hi>Job</hi> out of the whirlewind <hi>Iob</hi> 38.2. <hi>verſe</hi> and ſaid <hi>verſe</hi> 4 Where waſt thou when I laid the foundations of the earth? haſt thou entred into the ſprings of the Sea? or, haſt thou walked in the ſearch of the deeps? hath the gates of death been opened unto thee? or, haſt thou ſeen the doores of the ſhadow of death? <hi>verſe</hi> 7.2 <hi>King</hi> 3.11: And <hi>Eliah</hi> went up in a whirle winde into heaven, ſo that wee may ſee when the Lord deſcends to the creature, <hi>Exod.</hi> 1918. or calls for it to aſcend up to him, it is in ſome marvelous and extraordinary manner, as by ſtormes and whirle<g ref="char:EOLhyphen"/>windes, fiery Chariots, and thick clouds, and hee gives us the reaſon why he doth ſo in <hi>Exod</hi> 19:9. that the people may believe for ever when he ſpeakes to them. God hath ſeverall wayes to ſpeak, and after ſeverall manner he doth reveale himſelfe to the ſons of men under the Goſpell as well as under the Law, although ſome will not believe although one ſhould come from the dead to ſpeak to them: when the morning ſtarres ſing together, and all the the ſons of God ſhout for joy, or who ſhut up the Sea, with doores when it brake forth as if it had iſſued out of the wombe and ſaid, hitherto ſhall thy proud waves come and no further, and here ſhall they be ſtayed. Where the Lord Jeſus is broken forth in ſpirit, where he is riſen forth from the dead there is a glorious appearance of the preſence of God which fills the ſoule with joy, when <hi>Mary</hi> came to <hi>Elizabeth,</hi> ſhe ſaid, what am I that the mo<g ref="char:EOLhyphen"/>ther of my Lord ſhould come unto mee? as ſoone as the voice of thy ſalva<g ref="char:EOLhyphen"/>tion ſounded in my eares the Babe leaped in my wombe for joy, and ſhee ſaid, <hi>My ſoule doth magnifie the Lord, and my ſpirit doth rejoyce in God my Saviour,</hi> if there be ſuch rejoycing betwixt the Babe and his Mother for hearing the voice of the Mother of her Lord, what infinite tranſcendent happineſſe, admirable delight and over-comming and raviſhments of joy &amp; abundance of rejoycing wil there be when the <hi>Lord</hi> himſelf ſhal apear in
+<pb n="9" facs="tcp:117796:5"/>his glorious preſence to the ſoule arayed with all his excellent and glorious apparrell, travelling in the greatneſſe of his ſtrength and power, having all his artillery of graces following him who is the bright and glittering Morning Star that ſhineth in ſuch luſter and brightneſſe, and is the perfection of Beauty that it da<g ref="char:EOLhyphen"/>zells the beholders; and when the ſalutations of the Lord Himſelf are heard thus to a Soule, ſaying, my lips Oh my Spouſe drop as the Hony-combe, ſpeaking peace to the Soule, as when Chriſt appeared unto His Diſciples and ſaid, Peace be unto you, His Voyce is ſweete, and His Countenance is comely, and a Soule that Chriſt hath taken into Union with Himſelf, and ſaith, thou art comely through the comelineſſe that I have put upon thee, I have crowned thee in the day of thy Eſpouſall; ſo that in the preſence of Chriſt there is infinite cauſe of rejoycing, and the Salutations of Chriſt are but invitations to come above and live aloft in the higheſt Regions of light. <hi>Revel.</hi> 4.1, 2. And I heard a voyce ſaying unto me, come up hither; and immediatly I was in the Spirit. Chriſt takes a ſoule into Communion with Him<g ref="char:EOLhyphen"/>ſelf, and ſheweth it a glimpſe of His glory that muſt be here<g ref="char:EOLhyphen"/>after, whereupon the Soule concludes with the Diſciples, when they ſaw Chriſt transfigured on the Mount, that it is good for them to be there, and <hi>Stephen</hi> being full of the Holy Ghoſt, ſaid, I ſee the Heavens opened, and Jeſus ſtanding at the right Hand of God, and <hi>Iohn</hi> ſaw wonders in Heaven above: a Soul which Chriſt hath taken up into his Preſence Chamber, and pleads with it there, ſhewing it the Thrones of God and the glory of His Fathers Kingdom, will be transformed to the Image of God; when <hi>Moſes</hi> had been talking with God upon the Mount the People could not behold his Face, this glory and ſpirituall joy is for the Children of the Bride-chamber, unto whom when Chriſt appears he makes them ſo amiable and lovely a Spouſe that he admires the beauty and glory of his own Worke ſaying, thou art all faire my love, thou haſt no ſpot in thee, thou haſt raviſhed my Heart, my Siſter, my Spouſe; thou haſt raviſhed my Heart with one of thy Eyes, <hi>Cant.</hi> 6.5. Tume away thine Eyes from me for thou haſt overcome me. Hence Chriſt is overcome with the beauty of a flouriſhing Soul and admires it, and the Spouſe, hear<g ref="char:EOLhyphen"/>ing the voyce of her beloved, ecchoes back again, admiration of
+<pb n="10" facs="tcp:117796:6"/>her love that he was the chiefeſt of ten thouſand, <hi>Cant.</hi> 5.10. He is white and ruddy, His Countenance is excellent, His Mouth is moſt ſweet, he is altogether lovely, here the Spouſe would, if it were poſſible outvye Chriſt by way of admiration: here is the diſplaying the colours of each other, as if they would ſee which could advance higheſt in exaltations, and needs muſt there be joy in ſuch a Soul that is betrothed unto Chriſt, and made one with Him, very well may it break forth into a ſinging note; my Beloved ſpake and ſayd unto me; Riſe up my love and faire one and come away. <hi>Cant.</hi> 2.10. For loe the Winter is paſt, the Raine is over and gone, the Flowers appeare on the Earth, and the time of ſinging of Birds is come, now will I ſing unto my well beloved a ſong of prayſes and thanksgiving. <hi>Pſal.</hi> 47.6. Sing prayſe unto God, ſing prayſe, ſing prayſe unto our King, ſing yee prayſes with underſtanding. <hi>Pſal.</hi> 59.17. unto thee Oh my ſtrength will I ſing, for God is my defence and the God of my mercies. <hi>Hebr.</hi> 2.12. I will declare thy Name unto my Brethren in the middſt of the Church, I will ſing prayſe unto thee. 1 <hi>Chro.</hi> 16.8. Give thanks unto the Lord, call upon His Name, make known his deeds amongſt the people, ſing unto him, ſing Pſalmes unto him, talke yee of all his wondrous Workes, glory yee in his holy Name, let the heart of them rejoyce that ſeeke the Lord. <hi>Job.</hi> 29.13. Let the Widdowes heart ſing for joy when the bleſ<g ref="char:EOLhyphen"/>ſings of him that was ready to periſh came upon me ſaying, I will give her the valley of Achor for a door of hope, and ſhee ſhall ſing there as in the dayes of her youth, and as in the day when ſhe came up out of the Land of <hi>Egypt.</hi> That temporall deliverance, God records as remarkable for praiſe to be ſung unto him, and puts it in the forefront of his ten holy Commandements; When <hi>Davids</hi> ſoule lay under ſin he heard nothing of joy and gladneſſe, as we may ſee in his complant. <hi>Pſal.</hi> 51.6. <hi>Verſe;</hi> He cryed, make me to hear of joy and gladneſſe, <hi>Verſe</hi> 8. Reſtore unto me the joy of thy Salvation, ſo that we may ſee the times of reſtora<g ref="char:EOLhyphen"/>tion, either out of a relapſe from ſin, or by deliverance from dan<g ref="char:EOLhyphen"/>ger of death are rejoycing times.</p>
+            <p>The thoughts of God from everlaſting, were thoughts of mercy, love and peace, and when he doth ſhow mercies by wonderfull deliverances, he doth act but in his own element, for
+<pb n="11" facs="tcp:117796:6"/>he delights to ſhow mercy unto the ſons of Men; I will have mercy on whom I will have mercy; <hi>Gods</hi> Will and Mercy is the fountaine and ſpring of our eternall Salvation and of our temporall deliverances, I remember very well in the middſt of the ſtorme, that I fled for refuge to the anchor of Faith, and the VVill of <hi>God,</hi> ſaying to my friend, that the Lord ſaith, I will never leave thee, nor forſake thee, and I will not caſt thee off, aſſuring my ſelf, that it was the VVill of <hi>God</hi> that I ſhould re<g ref="char:EOLhyphen"/>ceive the welcome of my Father pronounced by the Son. Come yee bleſſed of my Father, inherit the Kingdome prepared for you before the foundation of the world.</p>
+            <p>Notwithſtanding all the comfort and encouragement that my deere Husband gave me, ſaying, that I had no cauſe to be troubled at all, in reſpect of any danger, and bad me ſleepe and be ſtill, for all was as well as Heart could wiſh, and I ſhould land ſafely, ſaying he was as ſure of ſafety as if he was on ſhore, and ſaid, he would not give a farthing to have his life ſecured him, nay, if the Ship brake in pieces yet we and he ſhould be ſafe he knew, thereupon I asked him if he knew what he ſaid, ſurely he was in a Dreame, why would he be ſo confident of ſafety when the Captaine and all the reſt ſaid, they knew not what would become of them, expecting every minute nothing but Death, and he replyed, that he had Dreamed, that <hi>Jeſus Chriſt</hi> told him ſo, and therefore he would believe it. I find that <hi>God</hi> had formerly revealed Himſelf to His ſervants by Vi<g ref="char:EOLhyphen"/>ſitions and Dreames: as in the 1 <hi>Kings</hi> 3.5. <hi>Verſe:</hi> when the Lord ſo lovingly appeared to <hi>Solomon,</hi> and asked him what he ſhould doe for him, as if he would lay aſide all his VVill and deſires, and condeſcend to <hi>Solomons</hi> requeſt. Aske what I ſhould give thee, ſaith <hi>God,</hi> as if he would refer Himſelf to <hi>So<g ref="char:EOLhyphen"/>lomons</hi> demands, and ſay not as I will, but as thou wilt, which is the higheſt expreſſion of love from the Lord to the Creature, as I have found in all the Booke of <hi>God,</hi> and yet we ſee that it was in a Dreame that the Lord thus revealed his infinite Love, ſo that we may here learne there is no time excluded from <hi>GODS</hi> manifeſting Himſelf to His People, but that it is all one to Him to ſpeak in a Dreame by Night, as in a Cloud by Day, <hi>Verſe</hi> 5. Yet I marvelled at His confidence, and could not
+<pb n="12" facs="tcp:117796:7"/>believe it, as to aſſure my ſelf of my life, but my fears were much above my hopes, I confeſs I had a ſubmiſſive hope to have life, but no aſſurance at all of life, <hi>It was enough,</hi> as <hi>Jacob</hi> ſaid, <hi>that my ſon Joſeph is yet alive;</hi> it was enough for me that my Soul ſhould ever live with the Lord, and upon this rock he brought me, and ſet my feet upon that rock that was higher then I, which only is my rock and my ſalvation, <hi>Pſal.</hi> 62.2. Upon which rock the foun<g ref="char:EOLhyphen"/>dation of my eternal comfort was built, when the rain deſcended, and the flouds came, and the wind blew and beat upon my ſoul, my heart fell not from my God, &amp; when we were like to have been ſplit in pieces upon the rocks in the Sea called the 3 <hi>Stags,</hi> I ſaid I would caſt my ſoul and body into the arms of my ſweet Saviour, and if I periſhed I would periſh there. And now ſeeing it hath pleaſed God to give us new lives, let us deſire one thing more of our good God, which he would not deny, <hi>Pſal.</hi> 27.4. and ſay with <hi>Elijah,</hi> 2 <hi>King.</hi> 2.9. I pray thee let a double portion of thy Spirit be upon me, as my life is doubled: So let it be our ſouls de<g ref="char:EOLhyphen"/>ſire to have a double portion of the Spirit of God upon this new life, and withall an underſtanding heart, 1 <hi>King.</hi> 3.9. <hi>Then opened he their understandings, that they might underſtand the Scrip<g ref="char:EOLhyphen"/>tures, Luk,</hi> 24.45. And although <hi>Elijah</hi> ſaid to <hi>Eliſha,</hi> That he had asked a hard thing, yet God delights that we ſhould ask of him hard things, for it is for a great God to give great things, as you ſhall ſee in 1 <hi>King.</hi> 3.10. And the ſpeech pleaſed the Lord, that <hi>Solomon</hi> had asked underſtanding, and he gave it him, and ſaid, That he had given him alſo that which he had not asked for, which was a long life; but it was but conditionally that God ſaid, <hi>So<g ref="char:EOLhyphen"/>lomon</hi> ſhould have it, 1 <hi>King.</hi> 3.14. <hi>And if thou wilt walk in my Ways, and keep my Commandments, as thy father David did, then will I lengthen thy days:</hi> and upon this condition the Lord gives <hi>Solomon</hi> a new life; Verſ. 15. <hi>And Solomon awaked, and behold, it was a dream;</hi> yet notwithſtanding the thing was accompliſh<g ref="char:EOLhyphen"/>ed, for in the 28. verſ. the people admired him, and why? becauſe <hi>they ſaw that the wiſdom of God was in him to do Judgment;</hi> and they came from all parts of the earth which had heard of <hi>Solomon</hi> to hear him.</p>
+            <p>And here do I conclude humbly, ſpreading before the Lord my earneſt deſires, that all we Sea-partners may obtain with <hi>Eliſha</hi> a
+<pb n="13" facs="tcp:117796:7"/>double portion of the Spirit of God, and with <hi>Solomon</hi> under<g ref="char:EOLhyphen"/>ſtanding hearts, that we may underſtand the Scriptures, for which I ſhall humbly wait at the feet of my ſweet Saviour for a more glorious manifeſtation of his preſence, and for a more enlightning revelation by his bleſſed Spirit, diſcovering the hidden Myſteries of the glorious Goſpel of Jeſus Chriſt unto my ſoul, which is life eternal to know God and Jeſus Chriſt his Son whom he hath ſent.</p>
+            <p>Come my fellow-ſufferers, we that have had a tryal of ten days tribulation in our Sea Voyage, ſeeing it hath pleaſed God to re<g ref="char:EOLhyphen"/>double our obligations in miraculous preſervations, let us multiply our fervent prayers and praiſes, and redouble our thankſgiving unto the Lord of Glory, that ſeeing theſe dangerous ſtorms, and tem<g ref="char:EOLhyphen"/>peſts, and ſickneſs, which we have had, were not unto death, but for the glory of God, and that the Son of God might be glorified thereby, <hi>John</hi> 11.4. Let us joyn with one conſent to give him praiſe which is due unto his Name all the days of our pilgrimage, which are few and evil. Let us exceedingly rejoyce in our God while we are hereupon earth, and cry <hi>Hoſanna</hi> to the higheſt; Let us ſo run, as we may obtain a never fading Diadem of Glory a<g ref="char:EOLhyphen"/>mongſt the Saints of that new <hi>Jeruſalem</hi> which is above: Let us be faithful to the death, and we ſhall have a crown of life, <hi>Rev.</hi> 2.10. For our God will ſurely come, and his reward is with him, and he will give to every one according to his works: Therefore God that is rich in mercy to all that call upon him, and a preſent help in time of trouble, fill your Souls with graces of his moſt holy Spirit, and accept all our Praiſes, and help us to perform all our Vows, and grant all our Petitions, ſo prays,</p>
+            <closer>
+               <signed>Your weak Remembrancer in all Christian Love and Duty, <hi>FRANCES COOK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="14" facs="tcp:117796:8"/>
+            <head>A Pſalm gathered out of the Pſalms of <hi>David</hi> at any landing after the great ſtorm at ſea, in <hi>Ianuary 5. 1649.</hi>
+            </head>
+            <lg>
+               <l>COme forth and barken deareſt friends,</l>
+               <l>all ſuch as love the Lord,</l>
+               <l>What he for my poor life hath done,</l>
+               <l>to you I will record.</l>
+            </lg>
+            <lg>
+               <l>For ſafety from the raging Seat,</l>
+               <l>this mouth to him did cry;</l>
+               <l>And thou my tongue make ſpeed apace,</l>
+               <l>to praiſe him by and by.</l>
+            </lg>
+            <lg>
+               <l>To render thanks unto the Lord,</l>
+               <l>how great a cauſe have I!</l>
+               <l>My voyce and prayer, and my complaint,</l>
+               <l>that heard ſo willingly.</l>
+            </lg>
+            <lg>
+               <l>Of his good will he hath call'd back</l>
+               <l>my Soul from Hell to ſave;</l>
+               <l>He did revive when help did lack,</l>
+               <l>and kept me from the grave.</l>
+            </lg>
+            <lg>
+               <l>I to the Lord will pay my vows,</l>
+               <l>that I to him did make,</l>
+               <l>That if he would deliver me,</l>
+               <l>and not my Soul forſake:</l>
+            </lg>
+            <lg>
+               <l>Then finally while breath did laſt,</l>
+               <l>on his grace I would depend,</l>
+               <l>And in the houſe of God always</l>
+               <l>my life for ever ſpend.</l>
+            </lg>
+            <lg>
+               <l>Therefore open to me the gates</l>
+               <l>of truth and righteouſneſſe,</l>
+               <l>That I may enter into them,</l>
+               <l>the Lords praiſe to expreſſe.</l>
+            </lg>
+            <pb n="15" facs="tcp:117796:8"/>
+            <lg>
+               <l>God is my glory, I will ſing,</l>
+               <l>with praiſe unto his Name,</l>
+               <l>That all my vows I may fulfil,</l>
+               <l>and dayly pay the ſame.</l>
+            </lg>
+            <lg>
+               <l>Thy Servant Lord, thy Servant lo,</l>
+               <l>I do my ſelf confeſſe</l>
+               <l>One of thy handmaids, thou didſt hear</l>
+               <l>my prayer in my diſtreſſe.</l>
+            </lg>
+            <lg>
+               <l>Who with the Lord is equal then,</l>
+               <l>in theſe his works of wonder?</l>
+               <l>That kept me from ſo many deaths,</l>
+               <l>and brake the waves in ſunder.</l>
+            </lg>
+            <lg>
+               <l>I will before the living Lord,</l>
+               <l>confeſſe his kindneſſe then:</l>
+               <l>That ſhewed his wonders in the ſtorm,</l>
+               <l>unto the ſons of men.</l>
+            </lg>
+            <lg>
+               <l>For with his Word the Lord did make</l>
+               <l>the ſturdy ſtorms to ceaſe:</l>
+               <l>So that the great waves from their rage,</l>
+               <l>he brought to reſt and peace.</l>
+            </lg>
+            <lg>
+               <l>Then was I glad when reſt did come,</l>
+               <l>which I ſo much did crave:</l>
+               <l>And was by him to Haven brought,</l>
+               <l>which I ſo fain would have.</l>
+            </lg>
+            <lg>
+               <l>This was the mighty work of God,</l>
+               <l>this was the Lords own fact,</l>
+               <l>And it is marvellous to behold</l>
+               <l>with eyes that noble act.</l>
+            </lg>
+            <lg>
+               <l>I will perform with heart ſo free,</l>
+               <l>to God my vows alwayes:</l>
+               <l>And I O Lord all times to thee</l>
+               <l>will offer thanks and praiſe.</l>
+            </lg>
+            <lg>
+               <l>My Soul from death thou didſt defend,</l>
+               <l>and kepſt my heart upright;</l>
+               <pb n="16" facs="tcp:117796:9"/>
+               <l>That I before thee may aſcend,</l>
+               <l>with ſuch as live in Light.</l>
+            </lg>
+            <lg>
+               <l>I will not hide within my breſt,</l>
+               <l>thy goodneſſe as by ſtealth:</l>
+               <l>But Ile declare, and will expreſſe,</l>
+               <l>thy truth and ſaving health.</l>
+            </lg>
+            <lg>
+               <l>Ile keep not cloſe thy loving minde,</l>
+               <l>that no one ſhould it know;</l>
+               <l>Thy love, which in the deeps I finde,</l>
+               <l>to all the Church Ile ſhow.</l>
+            </lg>
+            <lg>
+               <l>Yea, good to me that was at Sea,</l>
+               <l>his Mercies did exceed;</l>
+               <l>Lo all thy works do praiſe the Lord,</l>
+               <l>and to thy honor ſpread.</l>
+            </lg>
+            <lg>
+               <l>Thy Saints do bleſſe thee, and they do</l>
+               <l>thy Kingdoms glory ſhow;</l>
+               <l>And blaze thy praiſe, to cauſe the ſons</l>
+               <l>of men their power to know.</l>
+            </lg>
+            <lg>
+               <l>God is the Lord, by whom alone</l>
+               <l>Salvation cometh plain;</l>
+               <l>He is my God, by whom I ſcapt</l>
+               <l>all danger, death and pain.</l>
+            </lg>
+            <lg>
+               <l>As God hath given power to me,</l>
+               <l>ſo Lord make firm and ſure</l>
+               <l>The work that thou haſt wrought on me,</l>
+               <l>for ever to endure.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:V">Ʋ</g>ntil the day of Iudgment comes,</l>
+               <l>and I am call'd to reſt,</l>
+               <l>With all thy holy company</l>
+               <l>of Saints and Angels bleſt.</l>
+            </lg>
+            <lg>
+               <l>To praiſe the Lord Omnipotent,</l>
+               <l>triumphantly each houre;</l>
+               <l>To him be all dominion,</l>
+               <l>and praiſe for evermore.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
